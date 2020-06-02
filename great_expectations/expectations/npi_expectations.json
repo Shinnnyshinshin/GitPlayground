@@ -17,7 +17,7 @@
     {
       "expectation_type": "expect_table_column_count_to_equal",
       "kwargs": {
-        "value": 333
+        "value": 331
       },
       "meta": {
         "BasicSuiteBuilderProfiler": {
